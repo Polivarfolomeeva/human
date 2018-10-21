@@ -1,0 +1,305 @@
+Source,Type,Target,Weight
+1-й выездной лакей,Undirected,2-й выездной лакей,16
+1-й выездной лакей,Undirected,Барин,1
+1-й выездной лакей,Undirected,Барыня,2
+1-й выездной лакей,Undirected,Бетси,2
+1-й выездной лакей,Undirected,Василий Леонидыч,1
+1-й выездной лакей,Undirected,Графиня,2
+1-й выездной лакей,Undirected,Григорий,5
+1-й выездной лакей,Undirected,Княгиня,1
+1-й выездной лакей,Undirected,Княжна,1
+1-й выездной лакей,Undirected,Коко Клинген,2
+1-й выездной лакей,Undirected,Петрищев,2
+1-й выездной лакей,Undirected,Семен,1
+1-й выездной лакей,Undirected,Таня,2
+1-й выездной лакей,Undirected,Федор Иваныч,16
+1-й выездной лакей,Undirected,Яков,4
+1-й мужик,Undirected,2-й мужик,64
+1-й мужик,Undirected,3-й мужик,64
+1-й мужик,Undirected,Артельщик,23
+1-й мужик,Undirected,Баронесса,2
+1-й мужик,Undirected,Барыня,13
+1-й мужик,Undirected,Бетси,8
+1-й мужик,Undirected,Василий Леонидыч,18
+1-й мужик,Undirected,Григорий,17
+1-й мужик,Undirected,Гросман,2
+1-й мужик,Undirected,Доктор,5
+1-й мужик,Undirected,Кухарка,16
+1-й мужик,Undirected,Кучер,1
+1-й мужик,Undirected,Леонид Федорович,17
+1-й мужик,Undirected,Марья Константиновна,4
+1-й мужик,Undirected,Петрищев,5
+1-й мужик,Undirected,Профессор,3
+1-й мужик,Undirected,Сахатов,5
+1-й мужик,Undirected,Семен,12
+1-й мужик,Undirected,Старый повар,12
+1-й мужик,Undirected,Старый повар ,2
+1-й мужик,Undirected,Таня,34
+1-й мужик,Undirected,Толстая барыня,2
+1-й мужик,Undirected,Федор Иваныч,40
+1-й мужик,Undirected,Швейцар,2
+1-й мужик,Undirected,Яков,5
+2-й выездной лакей,Undirected,Барин,1
+2-й выездной лакей,Undirected,Барыня,2
+2-й выездной лакей,Undirected,Бетси,2
+2-й выездной лакей,Undirected,Василий Леонидыч,1
+2-й выездной лакей,Undirected,Графиня,2
+2-й выездной лакей,Undirected,Григорий,5
+2-й выездной лакей,Undirected,Княгиня,1
+2-й выездной лакей,Undirected,Княжна,1
+2-й выездной лакей,Undirected,Коко Клинген,2
+2-й выездной лакей,Undirected,Петрищев,2
+2-й выездной лакей,Undirected,Семен,1
+2-й выездной лакей,Undirected,Таня,2
+2-й выездной лакей,Undirected,Федор Иваныч,16
+2-й выездной лакей,Undirected,Яков,4
+2-й мужик,Undirected,3-й мужик,64
+2-й мужик,Undirected,Артельщик,23
+2-й мужик,Undirected,Баронесса,2
+2-й мужик,Undirected,Барыня,13
+2-й мужик,Undirected,Бетси,8
+2-й мужик,Undirected,Василий Леонидыч,18
+2-й мужик,Undirected,Григорий,17
+2-й мужик,Undirected,Гросман,2
+2-й мужик,Undirected,Доктор,5
+2-й мужик,Undirected,Кухарка,16
+2-й мужик,Undirected,Кучер,1
+2-й мужик,Undirected,Леонид Федорович,17
+2-й мужик,Undirected,Марья Константиновна,4
+2-й мужик,Undirected,Петрищев,5
+2-й мужик,Undirected,Профессор,3
+2-й мужик,Undirected,Сахатов,5
+2-й мужик,Undirected,Семен,12
+2-й мужик,Undirected,Старый повар,12
+2-й мужик,Undirected,Старый повар ,2
+2-й мужик,Undirected,Таня,34
+2-й мужик,Undirected,Толстая барыня,2
+2-й мужик,Undirected,Федор Иваныч,40
+2-й мужик,Undirected,Швейцар,2
+2-й мужик,Undirected,Яков,5
+3-й мужик,Undirected,Артельщик,23
+3-й мужик,Undirected,Баронесса,2
+3-й мужик,Undirected,Барыня,13
+3-й мужик,Undirected,Бетси,8
+3-й мужик,Undirected,Василий Леонидыч,18
+3-й мужик,Undirected,Григорий,17
+3-й мужик,Undirected,Гросман,2
+3-й мужик,Undirected,Доктор,5
+3-й мужик,Undirected,Кухарка,16
+3-й мужик,Undirected,Кучер,1
+3-й мужик,Undirected,Леонид Федорович,17
+3-й мужик,Undirected,Марья Константиновна,4
+3-й мужик,Undirected,Петрищев,5
+3-й мужик,Undirected,Профессор,3
+3-й мужик,Undirected,Сахатов,5
+3-й мужик,Undirected,Семен,12
+3-й мужик,Undirected,Старый повар,12
+3-й мужик,Undirected,Старый повар ,2
+3-й мужик,Undirected,Таня,34
+3-й мужик,Undirected,Толстая барыня,2
+3-й мужик,Undirected,Федор Иваныч,40
+3-й мужик,Undirected,Швейцар,2
+3-й мужик,Undirected,Яков,5
+Артельщик,Undirected,Барыня,7
+Артельщик,Undirected,Василий Леонидыч,10
+Артельщик,Undirected,Григорий,12
+Артельщик,Undirected,Доктор,4
+Артельщик,Undirected,Леонид Федорович,9
+Артельщик,Undirected,Петрищев,2
+Артельщик,Undirected,Сахатов,4
+Артельщик,Undirected,Семен,2
+Артельщик,Undirected,Таня,25
+Артельщик,Undirected,Федор Иваныч,27
+Артельщик,Undirected,Швейцар,3
+Артельщик,Undirected,Яков,2
+Артельщик,Undirected,Яков-буфетчик,1
+Барин,Undirected,Таня,1
+Барин,Undirected,Федор Иваныч,1
+Барин,Undirected,Яков,1
+Баронесса,Undirected,Барыня,2
+Баронесса,Undirected,Бетси,1
+Баронесса,Undirected,Василий Леонидыч,1
+Баронесса,Undirected,Гросман,2
+Баронесса,Undirected,Доктор,2
+Баронесса,Undirected,Кухарка,2
+Баронесса,Undirected,Леонид Федорович,2
+Баронесса,Undirected,Марья Константиновна,1
+Баронесса,Undirected,Петрищев,1
+Баронесса,Undirected,Профессор,2
+Баронесса,Undirected,Сахатов,2
+Баронесса,Undirected,Старый повар ,2
+Баронесса,Undirected,Таня,2
+Баронесса,Undirected,Толстая барыня,2
+Баронесса,Undirected,Федор Иваныч,2
+Барыня,Undirected,Бетси,4
+Барыня,Undirected,Василий Леонидыч,12
+Барыня,Undirected,Графиня,2
+Барыня,Undirected,Григорий,11
+Барыня,Undirected,Гросман,5
+Барыня,Undirected,Доктор,8
+Барыня,Undirected,Кухарка,3
+Барыня,Undirected,Леонид Федорович,10
+Барыня,Undirected,Марья Константиновна,3
+Барыня,Undirected,Петрищев,4
+Барыня,Undirected,Профессор,5
+Барыня,Undirected,Сахатов,5
+Барыня,Undirected,Семен,9
+Барыня,Undirected,Старый повар,1
+Барыня,Undirected,Старый повар ,2
+Барыня,Undirected,Таня,17
+Барыня,Undirected,Толстая барыня,5
+Барыня,Undirected,Федор Иваныч,19
+Барыня,Undirected,Швейцар,1
+Барыня,Undirected,Яков,1
+Бетси,Undirected,Василий Леонидыч,7
+Бетси,Undirected,Григорий,8
+Бетси,Undirected,Гросман,3
+Бетси,Undirected,Доктор,3
+Бетси,Undirected,Княгиня,1
+Бетси,Undirected,Княжна,1
+Бетси,Undirected,Коко Клинген,1
+Бетси,Undirected,Кухарка,1
+Бетси,Undirected,Леонид Федорович,5
+Бетси,Undirected,Марья Константиновна,7
+Бетси,Undirected,Петрищев,6
+Бетси,Undirected,Профессор,4
+Бетси,Undirected,Сахатов,3
+Бетси,Undirected,Семен,4
+Бетси,Undirected,Старый повар ,1
+Бетси,Undirected,Таня,10
+Бетси,Undirected,Толстая барыня,3
+Бетси,Undirected,Федор Иваныч,9
+Бетси,Undirected,Яков,1
+Василий Леонидыч,Undirected,Григорий,12
+Василий Леонидыч,Undirected,Гросман,4
+Василий Леонидыч,Undirected,Доктор,7
+Василий Леонидыч,Undirected,Кухарка,2
+Василий Леонидыч,Undirected,Леонид Федорович,7
+Василий Леонидыч,Undirected,Марья Константиновна,7
+Василий Леонидыч,Undirected,Петрищев,10
+Василий Леонидыч,Undirected,Профессор,4
+Василий Леонидыч,Undirected,Сахатов,5
+Василий Леонидыч,Undirected,Семен,3
+Василий Леонидыч,Undirected,Старый повар,1
+Василий Леонидыч,Undirected,Старый повар ,1
+Василий Леонидыч,Undirected,Таня,17
+Василий Леонидыч,Undirected,Толстая барыня,4
+Василий Леонидыч,Undirected,Федор Иваныч,18
+Графиня,Undirected,Григорий,1
+Графиня,Undirected,Семен,1
+Графиня,Undirected,Федор Иваныч,2
+Григорий,Undirected,Доктор,2
+Григорий,Undirected,Княгиня,1
+Григорий,Undirected,Княжна,1
+Григорий,Undirected,Кухарка,1
+Григорий,Undirected,Леонид Федорович,5
+Григорий,Undirected,Марья Константиновна,4
+Григорий,Undirected,Петрищев,3
+Григорий,Undirected,Профессор,2
+Григорий,Undirected,Сахатов,1
+Григорий,Undirected,Семен,7
+Григорий,Undirected,Таня,20
+Григорий,Undirected,Толстая барыня,1
+Григорий,Undirected,Федор Иваныч,20
+Григорий,Undirected,Швейцар,1
+Григорий,Undirected,Яков,2
+Гросман,Undirected,Доктор,7
+Гросман,Undirected,Кухарка,2
+Гросман,Undirected,Леонид Федорович,7
+Гросман,Undirected,Марья Константиновна,3
+Гросман,Undirected,Петрищев,4
+Гросман,Undirected,Профессор,7
+Гросман,Undirected,Сахатов,7
+Гросман,Undirected,Семен,5
+Гросман,Undirected,Старый повар ,2
+Гросман,Undirected,Таня,7
+Гросман,Undirected,Толстая барыня,7
+Гросман,Undirected,Федор Иваныч,2
+Доктор,Undirected,Кухарка,2
+Доктор,Undirected,Леонид Федорович,8
+Доктор,Undirected,Марья Константиновна,3
+Доктор,Undirected,Петрищев,4
+Доктор,Undirected,Профессор,7
+Доктор,Undirected,Сахатов,8
+Доктор,Undirected,Семен,5
+Доктор,Undirected,Старый повар ,2
+Доктор,Undirected,Таня,11
+Доктор,Undirected,Толстая барыня,7
+Доктор,Undirected,Федор Иваныч,5
+Княгиня,Undirected,Княжна,1
+Княгиня,Undirected,Федор Иваныч,1
+Княжна,Undirected,Федор Иваныч,1
+Коко Клинген,Undirected,Петрищев,1
+Коко Клинген,Undirected,Федор Иваныч,2
+Кухарка,Undirected,Кучер,1
+Кухарка,Undirected,Леонид Федорович,3
+Кухарка,Undirected,Марья Константиновна,1
+Кухарка,Undirected,Петрищев,1
+Кухарка,Undirected,Профессор,2
+Кухарка,Undirected,Сахатов,3
+Кухарка,Undirected,Семен,2
+Кухарка,Undirected,Старый повар,9
+Кухарка,Undirected,Старый повар ,2
+Кухарка,Undirected,Таня,7
+Кухарка,Undirected,Толстая барыня,2
+Кухарка,Undirected,Федор Иваныч,7
+Кухарка,Undirected,Яков,2
+Кучер,Undirected,Федор Иваныч,1
+Леонид Федорович,Undirected,Марья Константиновна,3
+Леонид Федорович,Undirected,Петрищев,5
+Леонид Федорович,Undirected,Профессор,14
+Леонид Федорович,Undirected,Сахатов,13
+Леонид Федорович,Undirected,Семен,9
+Леонид Федорович,Undirected,Старый повар,1
+Леонид Федорович,Undirected,Старый повар ,2
+Леонид Федорович,Undirected,Таня,23
+Леонид Федорович,Undirected,Толстая барыня,10
+Леонид Федорович,Undirected,Федор Иваныч,20
+Марья Константиновна,Undirected,Петрищев,6
+Марья Константиновна,Undirected,Профессор,3
+Марья Константиновна,Undirected,Сахатов,3
+Марья Константиновна,Undirected,Семен,2
+Марья Константиновна,Undirected,Старый повар ,1
+Марья Константиновна,Undirected,Таня,4
+Марья Константиновна,Undirected,Толстая барыня,3
+Марья Константиновна,Undirected,Федор Иваныч,4
+Петрищев,Undirected,Профессор,4
+Петрищев,Undirected,Сахатов,4
+Петрищев,Undirected,Семен,3
+Петрищев,Undirected,Старый повар ,1
+Петрищев,Undirected,Таня,6
+Петрищев,Undirected,Толстая барыня,4
+Петрищев,Undirected,Федор Иваныч,8
+Профессор,Undirected,Сахатов,11
+Профессор,Undirected,Семен,5
+Профессор,Undirected,Старый повар ,2
+Профессор,Undirected,Таня,12
+Профессор,Undirected,Толстая барыня,10
+Профессор,Undirected,Федор Иваныч,2
+Сахатов,Undirected,Семен,5
+Сахатов,Undirected,Старый повар,1
+Сахатов,Undirected,Старый повар ,2
+Сахатов,Undirected,Таня,13
+Сахатов,Undirected,Толстая барыня,9
+Сахатов,Undirected,Федор Иваныч,4
+Семен,Undirected,Старый повар,3
+Семен,Undirected,Таня,12
+Семен,Undirected,Толстая барыня,5
+Семен,Undirected,Федор Иваныч,9
+Семен,Undirected,Швейцар,1
+Семен,Undirected,Яков,2
+Старый повар ,Undirected,Таня,2
+Старый повар ,Undirected,Толстая барыня,2
+Старый повар ,Undirected,Федор Иваныч,2
+Старый повар,Undirected,Таня,5
+Старый повар,Undirected,Федор Иваныч,2
+Старый повар,Undirected,Яков,4
+Таня,Undirected,Толстая барыня,10
+Таня,Undirected,Федор Иваныч,40
+Таня,Undirected,Швейцар,3
+Таня,Undirected,Яков,6
+Таня,Undirected,Яков-буфетчик,1
+Толстая барыня,Undirected,Федор Иваныч,2
+Федор Иваныч,Undirected,Швейцар,5
+Федор Иваныч,Undirected,Яков,7
+Федор Иваныч,Undirected,Яков-буфетчик,1
